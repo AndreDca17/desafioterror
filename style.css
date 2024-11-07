@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: rgb(127, 128, 109);
+}
+img{
+    height: 30%;
+    width: 20%;
+}
+Img:hover{
+    height: 50%;
+    width: 25%;
+    content: url(jogos_indie_de_horror_para_halloween__0z5e41o2.jpg);
+}
